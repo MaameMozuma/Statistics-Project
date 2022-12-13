@@ -2,6 +2,9 @@
 
 
 ## Statistics Individual Project
+
+# Question of Presentation: DOES THE HAPPINESS LEVEL OF INDIVIDUALS AFFECT THEIR WELL-BEING IN THE UK?
+
 - Several theories have been proposed on the impact of happiness on one’s health.
 - The dominant explanation for this link is that happy people take better care of themselves by engaging in healthy habits such as getting enough sleep and exercising, to name a few (MacMillan, 2017). 
 - Previous literature reviews focused on unique elements of people’s health rather than their overall health. 
